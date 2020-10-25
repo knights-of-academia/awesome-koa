@@ -9,4 +9,4 @@
 ## Miscellaneous
 
 * [The 100 Day Project](https://the100dayproject.org) - Challenge yourself to focus on a project for 100 days in a row.
-* [Inktober] (https://inktober.com/) - one month of non-stop inking.
+* [Inktober](https://inktober.com/) - one month of non-stop inking.
