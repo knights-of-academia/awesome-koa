@@ -2,4 +2,4 @@
 
 ## Courses
 
-*[Wellbeing course](https://www.coursera.org/learn/the-science-of-well-being) - Free Coursera course on wellbeing
+* [Wellbeing Course](https://www.coursera.org/learn/the-science-of-well-being) - Free Coursera course (Yale) on mental wellbeing and productivity
