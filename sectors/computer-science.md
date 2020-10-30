@@ -12,6 +12,7 @@
 * [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown) - Introduction video into a series covering ML, neural networks, and the math behind them.
 * [Kaggle](https://www.kaggle.com/) - Community site dedicated to sharing datasets and notebooks for machine learning projects.
 * [Brilliant](https://brilliant.org) - Teach yourself various math concepts including neural networks and algorithms.
+* [Papers with Code](https://paperswithcode.com/sota) - Scientific papers on machine learning combined with the code behind them.
 
 ## Miscellaneous
 
