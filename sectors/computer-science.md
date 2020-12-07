@@ -1,5 +1,13 @@
 # ⌨️ Computer Science
 
+## Accessibility
+
+* [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) - Industry standard guidelines and requirements for accessibility
+
+## Git / GitHub
+
+* [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - 1 hour crash course in Git/GitHub, using VSCode
+
 ## Python
 
 * [Derek Banas Python Tutorial](https://www.youtube.com/watch?v=N4mEzFDjqtA&ab_channel=DerekBanas) - 45 minute video covering the basics of Python programming. 
