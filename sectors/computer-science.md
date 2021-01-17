@@ -34,3 +34,5 @@
 ## Miscellaneous
 
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x) - Open source collection of articles detailing how to build different tools in different programming languages.
+* [CS1000](https://cs1000.vercel.app/) - Entire MIT Computer Science Curriculum in 1079 youtube videos
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Video crash courses on Python, JS, React, etc
