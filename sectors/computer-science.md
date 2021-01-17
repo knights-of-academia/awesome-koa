@@ -1,5 +1,8 @@
 # ⌨️ Computer Science
 
+> A variable is a magical place in space and time size of a few atoms where you can store anything you want
+- Spidi#8117
+
 ## Accessibility
 
 * [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) - Industry standard guidelines and requirements for accessibility
@@ -11,6 +14,11 @@
 ## Python
 
 * [Derek Banas Python Tutorial](https://www.youtube.com/watch?v=N4mEzFDjqtA&ab_channel=DerekBanas) - 45 minute video covering the basics of Python programming. 
+
+## Javascript
+
+* [Eloquent Javascript](https://eloquentjavascript.net) - free book about JS
+* [Learn React for Free](https://scrimba.com/learn/learnreact) - great interactive course on the basics of React
 
 ## Machine Learning
 
