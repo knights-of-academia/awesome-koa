@@ -1,7 +1,8 @@
 # ⌨️ Computer Science
 
 > A variable is a magical place in space and time size of a few atoms where you can store anything you want
-- Spidi#8117
+
+\- Spidi#8117
 
 ## Accessibility
 
